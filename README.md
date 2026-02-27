@@ -29,11 +29,11 @@ I am a hardworking, self-motivated learner always ready to take on new challenge
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Dominic20-03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Dominic20-03&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dominic20-03&theme=dark&hide_border=false&layout=compact)
 
 ---
 
