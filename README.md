@@ -38,7 +38,7 @@ I am a hardworking, self-motivated learner always ready to take on new challenge
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=Dominic20-03&theme=radical&no-frame=false&margin-w=10)
 
 ---
 
