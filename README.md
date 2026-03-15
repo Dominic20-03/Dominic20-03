@@ -51,11 +51,6 @@ I am a hardworking, self-motivated learner always ready to take on new challenge
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dominic20-03&theme=radical&no-frame=false&margin-w=10)
-
----
-
 ### ✨ Competitive Programming Profiles
 - Codeforces: https://codeforces.com/profile/Dominic03
 - CodeChef: https://www.codechef.com/users/dominic03
