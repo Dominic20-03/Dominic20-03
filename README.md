@@ -1,6 +1,11 @@
 # 💫 About Me:
-Hi! I’m a 2nd Year CSE student at International Islamic University Chittagong 🎓  
-I’m passionate about Software Development and Competitive Programming.  
+
+<h1 align="center">Hi 👋, I'm Towhidul Mowla Chowdhury</h1>
+<h3 align="center">CSE Student | Competitive Programmer | Aspiring Software Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dominic20-03&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>  
 
 💡 I love solving algorithmic problems and continuously improving my problem-solving skills.  
 🧠 I have solved 300+ problems across platforms like Codeforces, CodeChef, AtCoder, CSES, Vjudge, and HackerRank.  
@@ -28,12 +33,23 @@ I am a hardworking, self-motivated learner always ready to take on new challenge
 
 ---
 
+# ⚙️ Tools & Technologies
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dominic20-03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Dominic20-03&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dominic20-03&theme=dark&hide_border=false&layout=compact)
+
+---
+
+[![Towhid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dominic20-03&theme=react-dark)](https://github.com/Dominic20-03)
 
 ---
 
