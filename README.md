@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Towhidul Mowla Chowdhury</h1>
 <h3 align="center">CSE Student | Competitive Programmer | Aspiring Software Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dominic20-03&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>  
+--- 
 
 💡 I love solving algorithmic problems and continuously improving my problem-solving skills.  
 🧠 I have solved 300+ problems across platforms like Codeforces, CodeChef, AtCoder, CSES, Vjudge, and HackerRank.  
@@ -74,3 +72,9 @@ I am a hardworking, self-motivated learner always ready to take on new challenge
 ---
 
 ⭐ *“Consistency beats motivation.”*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dominic20-03&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p> 
